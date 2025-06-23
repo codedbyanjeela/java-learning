@@ -20,7 +20,6 @@ I'm currently learning Java through YouTube tutorials and this repo contains all
 ## 📌 Purpose
 
 This repository is part of my learning journey as a beginner. I'm building and uploading mini-projects to track my progress, build confidence, and create a portfolio I can share on LinkedIn.
-I’m not an expert yet, but every line of code I write gets me closer.
 ---
 
 _Thank you for visiting! ⭐_
